@@ -1,0 +1,2 @@
+EBAY_USERNAME = ''
+EBAY_PASSWORD = ''
